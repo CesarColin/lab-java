@@ -19,3 +19,6 @@ public class Test1 {
 	}
 
 }
+
+
+// R: It validates IPv4, fails for mask/subset mask/netmask and eny other not related string
