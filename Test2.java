@@ -27,3 +27,6 @@ public class Test2 {
 		}
 	}
 }
+
+
+// R: Will keep synchronizing for ever
