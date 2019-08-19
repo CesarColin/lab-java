@@ -14,3 +14,5 @@ class Test
         }  
     }  
 }  
+
+// R: limit is not defined
